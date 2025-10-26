@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+pyautogui
+pyttsx3
+PyQt5
+keyboard
+numpy
