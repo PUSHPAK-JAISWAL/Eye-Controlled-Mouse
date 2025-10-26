@@ -72,7 +72,7 @@ You can package this application into a single, distributable Windows executable
 1.  **Run the PyInstaller command:** (Using PowerShell syntax)
 
     ```powershell
-    pyinstaller EyeController_smoothed.py `
+    pyinstaller main.py `
     --name EyeController `
     --hidden-import win32api `
     --hidden-import pyttsx3.drivers `
@@ -105,3 +105,4 @@ Key configuration variables are located near the top of `EyeController_smoothed.
 
 ```
 ```
+
